@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "tx_html5_localstorage", "tx_html5_localstorage\tx_html5_localstorage.csproj", "{07EEC223-5169-4BC7-BB9F-1AB9C44E4498}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{07EEC223-5169-4BC7-BB9F-1AB9C44E4498}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{07EEC223-5169-4BC7-BB9F-1AB9C44E4498}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{07EEC223-5169-4BC7-BB9F-1AB9C44E4498}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{07EEC223-5169-4BC7-BB9F-1AB9C44E4498}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
