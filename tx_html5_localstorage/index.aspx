@@ -1,13 +1,13 @@
 ﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="index.aspx.cs" Inherits="tx_html5_localstorage.index" %>
 
-<%@ Register Assembly="TXTextControl.Web, Version=22.0.200.500, Culture=neutral, PublicKeyToken=6b83fe9a75cfb638" Namespace="TXTextControl.Web" TagPrefix="cc1" %>
+<%@ Register Assembly="TXTextControl.Web, Version=31.0.1100.500, Culture=neutral, PublicKeyToken=6b83fe9a75cfb638" Namespace="TXTextControl.Web" TagPrefix="cc1" %>
 
 <!DOCTYPE html>
 
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head runat="server">
     <title>Web.TextControl: Save documents in local storage</title>
-    <script src="Scripts/jquery-2.1.4.js"></script>
+    <script src="Scripts/jquery-3.6.0.js"></script>
 </head>
 <body>
     <form id="form1" runat="server">
